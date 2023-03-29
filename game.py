@@ -1,6 +1,7 @@
 # Modules
 import items
 import enemies
+import map
 
 # Functions
 def game():
